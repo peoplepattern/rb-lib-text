@@ -3,4 +3,3 @@ language: ruby
 cache: bundler
 rvm:
   - 2.2.1
-script: rspec
