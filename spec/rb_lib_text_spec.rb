@@ -6,6 +6,8 @@ describe RbLibText do
   end
 
   it 'does something useful' do
-    expect(false).to eq(true)
+    sentance = "RT @RGA: The most horrifying Halloween costume of all. (via @atmasphere) http://t.co/YzcTzh5BtE"
+    tokens = RbLibText.tokens(sentance)
+    expect(tokens.count).to eq(16)
   end
 end
