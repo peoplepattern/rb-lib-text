@@ -1,6 +1,8 @@
 # RbLibText
 A little text processing library for Ruby.
 
+[![Build Status](https://travis-ci.com/peoplepattern/rb-lib-text.svg?token=6qVa5jHEpFstFuG6QbBE)](https://travis-ci.com/peoplepattern/rb-lib-text)
+
 ## Overview
 The tokenization has been tuned to work well with text conventions commonly used in social media such as Twitter, and supports URLs, hashtags, emails and @-mentions cleanly.
 
@@ -45,6 +47,3 @@ The gem is available as open source under the terms of the [MIT License](http://
 ## Acknowledgements
 
 Developed with :heart: at [People Pattern Corporation](https://peoplepattern.com)
-
-[![People Pattern logo](pp.png)](https://peoplepattern.com)
-
