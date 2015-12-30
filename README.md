@@ -1,7 +1,7 @@
 # RbLibText
 A little text processing library for Ruby.
 
-[![Build Status](https://travis-ci.com/peoplepattern/rb-lib-text.svg?token=6qVa5jHEpFstFuG6QbBE)](https://travis-ci.com/peoplepattern/rb-lib-text)
+[![Build Status](https://travis-ci.org/peoplepattern/rb-lib-text.svg)](https://travis-ci.org/peoplepattern/rb-lib-text)
 
 ## Overview
 The tokenization has been tuned to work well with text conventions commonly used in social media such as Twitter, and supports URLs, hashtags, emails and @-mentions cleanly.
